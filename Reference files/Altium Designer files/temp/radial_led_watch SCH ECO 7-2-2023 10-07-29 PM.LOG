@@ -1,0 +1,12 @@
+Change Component Parameter Description in C4 Old=Capacitor, NP0, ±2% New=Capacitor, NP0, ±5%
+Change Component Parameter Library Reference in C4 Old= New=CAP_0201
+Change Value of Parameter Note in Part C4 Old=50V New=Chip Cap
+Change Value of Parameter Part Number in Part C4 Old=C0201-12p New=C0201-TBD
+Change Value of Parameter Value in Part C4 Old=100nF New=TBD
+Change Component Parameter Description in C6 Old=Capacitor, NP0, ±2% New=Capacitor, NP0, ±5%
+Change Component Parameter Library Reference in C6 Old=C0201-12p New=CAP_0201
+Change Value of Parameter Note in Part C6 Old=50V New=Chip Cap
+Change Value of Parameter Part Number in Part C6 Old=C0201-12p New=C0201-TBD
+Change Value of Parameter Value in Part C6 Old=100nF New=TBD
+Replace Symbol from C4 CAP_0201 in C:\Users\tquin\OneDrive\Documents\Radial LED smartwatch\Altium Designer files\nRF52832-CIAA\radial_led_watch.SchDoc with CAP_0201 from nrf52832_ciaa.IntLib
+Replace Symbol from C6 CAP_0201 in C:\Users\tquin\OneDrive\Documents\Radial LED smartwatch\Altium Designer files\nRF52832-CIAA\radial_led_watch.SchDoc with CAP_0201 from nrf52832_ciaa.IntLib
