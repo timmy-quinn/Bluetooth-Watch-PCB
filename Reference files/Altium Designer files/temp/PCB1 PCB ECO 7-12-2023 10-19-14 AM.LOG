@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=SINK 1 Pin=U1-8
-Removed Pin From Net: NetName=SINK 2 Pin=U1-9
-Removed Pin From Net: NetName=SINK 3 Pin=U1-10
-Removed Pin From Net: NetName=SINK 4 Pin=U1-11
-Added Pin To Net: NetName=SINK 4 Pin=U1-8
-Added Pin To Net: NetName=SINK 3 Pin=U1-9
-Added Pin To Net: NetName=SINK 2 Pin=U1-10
-Added Pin To Net: NetName=SINK 1 Pin=U1-11
-Add Class Member: Failed to add class member : Component D7
