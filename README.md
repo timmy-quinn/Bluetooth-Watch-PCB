@@ -17,7 +17,7 @@ To enable Bluetooth connectivity the watch uses a compact 2.45 GHz microstrip an
 
 ### LED Multiplexing Matrix
 
-At first I considered Charlieplexing the LEDs to save GPIO pins, but I realized that I had enough pins available, and that Charlieplexing would require more resistors. So I went with this simple system. In the PCB the LEDs which share the same sink are all daisy-chained together, to enable the 
+At first I considered Charlieplexing the LEDs to save GPIO pins, but I realized that I had enough pins available, and that Charlieplexing would require more resistors. So I went with this simple system. In the PCB the LEDs which share the same sink are all placed next to each other, so that they can be daisy chained together. This made routing, with the many overlapping GPIO traces easier. 
 
 ![LED Matrix](https://github.com/timmy-quinn/Bluetooth-Watch-PCB/blob/main/LED_Multiplexing_Diagram.png)
 
